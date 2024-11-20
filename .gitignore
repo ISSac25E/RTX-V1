@@ -3,8 +3,4 @@
 
 # except:
 !.gitignore
-!*/
-!*.ino
-!*.h
-!*.cpp
 !*.md

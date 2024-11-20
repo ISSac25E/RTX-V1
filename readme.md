@@ -1,4 +1,4 @@
-# RTX V1 Amir Gorkovchenko (2020 - 2021)
+# RTX V1 - Amir Gorkovchenko (2020 - 2021)
 ### !! Deprecated Version !!
 
 #### (RTX) Receive-Transmit-Exchange

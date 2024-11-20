@@ -43,3 +43,12 @@ This device acts as a bridge between the computer and the one-wire network and a
 The Center-Side-Switcher each are configured through their EEPROM and include an integrity check on boot-up
 
 The configuration is mostly included for the button configuration
+
+### Other
+This is where the program for the master device is. This is also where the development code is stored.
+The master device facilitates the communication for each of the devices.
+
+The master buffers the packets and waits for the receiving device to become available before transmitting the packet.
+Each slave device has a simple address that allows other devices to target it with packets.
+
+This protocol was designed to be reliable with a low chance of packet loss

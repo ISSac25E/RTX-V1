@@ -1,5 +1,5 @@
 # RTX V1 - Amir Gorkovchenko (2020 - 2021)
-### !! Deprecated Version !!
+### !! Deprecated Version. See V2 !!
 
 #### (RTX) Receive-Transmit-Exchange
 Control Camera switching and Tally lights via a custom one-wire(RTX) protocol.

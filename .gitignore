@@ -4,3 +4,5 @@
 # except:
 !.gitignore
 !*.md
+!*.png
+!*.jpg

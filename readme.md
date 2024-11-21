@@ -52,3 +52,21 @@ The master buffers the packets and waits for the receiving device to become avai
 Each slave device has a simple address that allows other devices to target it with packets.
 
 This protocol was designed to be reliable with a low chance of packet loss
+
+## Photos
+
+Using my first osiliscope to develop and debug RTX protocol:
+
+<img src="IMG_20210808_124934.jpg" alt="alt text" width="300" />
+
+\
+\
+Inside V1 Center-Side-Switcher box:
+
+<img src="image.png" alt="alt text" width="300" />
+
+\
+\
+Cameras with external Tally Lights. (green in foreground and red in the background):
+
+<img src="image-1.png" alt="alt text" width="500" />
